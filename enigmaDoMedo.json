@@ -1,15 +1,14 @@
 {
-    "contact": "https://discord.gg/cellbit",
-    "templates": [
-      {
-        "name": "EnigmaDoMedo",
-        "sources": [
-          "https://raw.githubusercontent.com/cssssia/r-place/main/enigmaDoMedo/enigmaTemplate.png"
-        ],
-        "x": 617,
-        "y": 263
-      }
-    ],
-    "whitelist": [],
-    "blacklist": []
-  }
+  "contact": "https://discord.gg/cellbit",
+  "templates": [
+    {
+      "name": "Enigma do Medo",
+      "sources": [
+        "https://raw.githubusercontent.com/cssssia/r-place/main/enigmaDoMedo/enigmaTemplate.png"
+      ],
+      "x": 1617,
+      "y": 763
+    }
+  ],
+  "blacklist": []
+}
