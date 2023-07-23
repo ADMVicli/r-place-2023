@@ -1,14 +1,62 @@
+
 {
-  "contact": "https://discord.gg/cellbit",
+
+  "contact": "discord.gg/cellbit",
+
   "templates": [
+
     {
+
       "name": "Enigma do Medo",
+
       "sources": [
-        "https://raw.githubusercontent.com/cssssia/r-place/main/enigmaDoMedo/enigmaTemplate.png"
+
+        "https://cdn.discordapp.com/attachments/800810608673030155/1132240738713870466/edm.png"
+
       ],
-      "x": 1617,
-      "y": 763
+
+      "x": 1600,
+
+      "y": 1262
+
+    },
+
+    {
+
+      "name": "Enigma do Medo Symbols",
+
+      "sources": [
+
+        "https://cdn.discordapp.com/attachments/692299918408286228/1132247261674487868/edm_symbols.png"
+
+      ],
+
+      "x": 1264,
+
+      "y": 1361
+
+    },
+
+    {
+
+      "name": "Imaginary Friend",
+
+      "sources": [
+
+        "https://cdn.discordapp.com/attachments/809558712725012520/1132439092081217566/AmigoImaginarioFinal2.png"
+
+      ],
+
+      "x": 1824,
+
+      "y": 1127
+
     }
+
   ],
+
+  "whitelist": [],
+
   "blacklist": []
+
 }
