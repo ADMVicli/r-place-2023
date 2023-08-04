@@ -1,62 +1,127 @@
-
 {
-
   "contact": "discord.gg/cellbit",
-
   "templates": [
-
     {
-
-      "name": "Enigma do Medo",
-
+      "name": "Enigma do Medo e Espreitador",
       "sources": [
-
-        "https://cdn.discordapp.com/attachments/800810608673030155/1132240738713870466/edm.png"
-
+        "https://cdn.discordapp.com/attachments/809558712725012520/1133059360298369134/EdM-Atual.png"
       ],
-
-      "x": 1600,
-
+      "x": 2100,
       "y": 1262
-
     },
-
     {
-
-      "name": "Enigma do Medo Symbols",
-
+      "name": "RPG Symbols",
       "sources": [
-
         "https://cdn.discordapp.com/attachments/692299918408286228/1132247261674487868/edm_symbols.png"
-
       ],
-
-      "x": 1264,
-
+      "x": 1764,
       "y": 1361
-
     },
-
     {
-
       "name": "Imaginary Friend",
-
       "sources": [
-
-        "https://cdn.discordapp.com/attachments/809558712725012520/1132439092081217566/AmigoImaginarioFinal2.png"
-
+        "https://cdn.discordapp.com/attachments/809558712725012520/1133100560711696496/AmigoImaginarioFinal4.png"
       ],
-
-      "x": 1824,
-
-      "y": 1127
-
+      "x": 2323,
+      "y": 1126
+    },
+    {
+      "name": "Carente",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/809558712725012520/1132810372341039134/CarenteAntena.png"
+      ],
+      "x": 1892,
+      "y": 1593
+    },
+    {
+      "name": "Anfitrião",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/809558712725012520/1132789997255278622/Anfitriao.png"
+      ],
+      "x": 1774,
+      "y": 1500
+    },
+    {
+      "name": "Brasil",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1132817575684878407/1132819912235159582/r-brasil.png"
+      ],
+      "x": 1648,
+      "y": 1282
+    },
+    {
+      "name": "Felps",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/812185959026262022/1132793707335274506/felps.png"
+      ],
+      "x": 1498,
+      "y": 1429
+    },
+    {
+      "name": "cellA",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/809558712725012520/1132846763544420362/cellA_talvez_final.png"
+      ],
+      "x": 2242,
+      "y": 1346
+    },
+    {
+      "name": "Estrangeiro",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/809558712725012520/1133055985620095116/EstrangeiroFix3.png"
+      ],
+      "x": 203,
+      "y": 1519
+    },
+    {
+      "name": "Roger v Whitebeard art",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1132882809317498911/1132884792334110730/roger_vs_whitebeard_v02-1_w_Cellbit.png"
+      ],
+      "x": 0,
+      "y": 753
+    },
+    {
+      "name": "DrSimi",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/809558712725012520/1132903169370898462/QuackityDoc.png"
+      ],
+      "x": 0,
+      "y": 1797
+    },
+    {
+      "name": "Mount",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/809558712725012520/1133152279449571438/Mount.png"
+      ],
+      "x": 2508,
+      "y": 1395
+    },
+    {
+      "name": "PedroDBR Logo com Borda",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1133255332207018025/1133255917002031234/Pedrodbrlogovermelha3comborda.png"
+      ],
+      "x": 0,
+      "y": 921
+    },
+    {
+      "name": "PedroDBR Logo",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1132839675451674644/1132934423298441236/dbrlogoRED.png"
+      ],
+      "x": 1947,
+      "y": 1362
+    },
+    {
+      "name": "Cinemagrath",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/906251909378240592/1133480457154080860/cinema.png"
+      ],
+      "x": 2502,
+      "y": 1186
     }
-
   ],
-
   "whitelist": [],
-
   "blacklist": []
-
 }
